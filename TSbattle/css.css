@@ -1,0 +1,6 @@
+html, body, div, canvas {
+    margin: 1px;
+    padding: 0;
+    overflow-y:hidden;
+    overflow-x:hidden;
+}
