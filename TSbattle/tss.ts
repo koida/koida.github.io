@@ -112,7 +112,7 @@ window.oncontextmenu = function (e) {
     // console.log('es angulo nuevo ' + miNave.anguloNuevo)
     // miNave.anguloNuevo = Math.atan(Math.tan((y-miNave.y)/(x-miNave.x)))
     drawNave(x,y)
-    return false; 
+    return false 
 }
 
 
